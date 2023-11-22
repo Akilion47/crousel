@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-open-sans: "Open Sans";
+  --font-poppins: Poppins;
+  --font-source-sans-pro: "Source Sans Pro";
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-2xl: 21px;
+  --font-size-37xl: 56px;
+  --font-size-3xl: 22px;
+  --font-size-mini-7: 14.7px;
+  --font-size-lgi: 19px;
+  --font-size-lg-8: 18.8px;
+
+  /* Colors */
+  --color-darkslategray-100: #424961;
+  --body: #444957;
+  --primary: #0e2368;
+  --color-white: #fff;
+  --color-lightsteelblue: rgba(147, 162, 211, 0.38);
+  --color-gainsboro: rgba(217, 217, 217, 0);
+  --b9c: #828b9c;
+  --color-dimgray: #646874;
+  --color-whitesmoke: #f8f8f8;
+
+  /* Gaps */
+  --gap-8xl-4: 27.4px;
+  --gap-sm-7: 13.7px;
+  --gap-sm: 14px;
+
+  /* Border radiuses */
+  --br-2xl: 21px;
+  --br-xl-9: 20.9px;
+  --br-8xs: 5px;
+}

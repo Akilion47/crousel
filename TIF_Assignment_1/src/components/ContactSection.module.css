@@ -1,0 +1,198 @@
+.contactUs,
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.groupChild {
+  background-color: var(--color-whitesmoke);
+  width: 1440px;
+  height: 362px;
+}
+.contactUs {
+  letter-spacing: 0.03em;
+  line-height: 27.22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 94px;
+  height: 27px;
+}
+.div,
+.example2020gmailcom,
+.loremIpsumPvt {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  line-height: 23.03px;
+  display: inline-block;
+  width: 217px;
+  height: 69px;
+}
+.div,
+.example2020gmailcom {
+  top: 84px;
+  left: 0;
+  width: 232px;
+  height: 23px;
+}
+.div {
+  top: 122px;
+  text-align: center;
+  width: 91px;
+}
+.loremIpsumPvtLtd51MagalParent {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  width: 232px;
+  height: 145px;
+  font-size: 14.66px;
+  color: var(--color-dimgray);
+}
+.contactUsParent,
+.more {
+  position: absolute;
+  top: 84px;
+  left: 474px;
+  width: 232px;
+  height: 186px;
+}
+.more {
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 27.22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 43px;
+  height: 27px;
+}
+.aboutUs,
+.career,
+.contactUs1,
+.products,
+.socialLinks {
+  position: absolute;
+  line-height: 27px;
+  display: inline-block;
+}
+.socialLinks {
+  top: 0;
+  left: 309px;
+  font-size: var(--font-size-lgi);
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  width: 129px;
+  height: 27px;
+}
+.aboutUs,
+.career,
+.contactUs1,
+.products {
+  top: 40px;
+  left: 0;
+  width: 153px;
+  height: 26px;
+}
+.aboutUs,
+.career,
+.contactUs1 {
+  top: 80px;
+  width: 86px;
+}
+.aboutUs,
+.contactUs1 {
+  top: 119px;
+  width: 94px;
+}
+.aboutUs {
+  top: 0;
+  font-size: 14.66px;
+  line-height: 27.22px;
+  width: 75px;
+}
+.productsParent {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  width: 153px;
+  height: 145px;
+  font-size: var(--font-size-mini);
+  color: var(--color-dimgray);
+}
+.moreParent {
+  position: absolute;
+  top: 84px;
+  left: 898px;
+  width: 438px;
+  height: 186px;
+}
+.foodTruckExample {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 25.12px;
+  display: inline-block;
+  width: 197px;
+  height: 25px;
+}
+.foodTruckExampleWrapper {
+  position: absolute;
+  top: 245px;
+  left: 1139px;
+  width: 197px;
+  height: 25px;
+  text-align: center;
+  font-size: 14.66px;
+  color: var(--b9c);
+  font-family: var(--font-roboto);
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 362px;
+}
+.componentIcon,
+.componentIcon1,
+.componentIcon2 {
+  position: absolute;
+  height: 5.8%;
+  width: 1.46%;
+  top: 33.7%;
+  right: 7.15%;
+  bottom: 60.5%;
+  left: 91.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.componentIcon1,
+.componentIcon2 {
+  height: 19.06%;
+  width: 4.79%;
+  top: 27.07%;
+  right: 9.44%;
+  bottom: 53.87%;
+  left: 85.76%;
+}
+.componentIcon2 {
+  height: 5.8%;
+  width: 1.46%;
+  top: 33.7%;
+  right: 14.72%;
+  bottom: 60.5%;
+  left: 83.82%;
+}
+.groupParent {
+  position: absolute;
+  top: 2451px;
+  left: 1px;
+  width: 1440px;
+  height: 362px;
+  text-align: left;
+  font-size: 18.84px;
+  color: var(--primary);
+  font-family: var(--font-source-sans-pro);
+}

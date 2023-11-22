@@ -1,0 +1,132 @@
+.groupChild,
+.latestArticles {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.latestArticles {
+  margin: 0;
+  font-size: var(--font-size-37xl);
+  letter-spacing: 0.04em;
+  line-height: 42px;
+  font-weight: 600;
+  font-family: var(--font-source-sans-pro);
+  display: inline-block;
+  width: 461px;
+  height: 84px;
+}
+.groupChild {
+  border-radius: 20.94px;
+  background-color: var(--color-white);
+  border: 1.4px solid var(--color-lightsteelblue);
+  box-sizing: border-box;
+  width: 381px;
+  height: 554px;
+}
+.grilledTomatoes1846x8461Icon {
+  position: absolute;
+  top: 27px;
+  left: 27px;
+  border-radius: var(--br-2xl);
+  width: 326px;
+  height: 257px;
+  object-fit: cover;
+}
+.grilledTomatoesAt {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 27px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.ploremIpsumIs {
+  position: relative;
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.02em;
+  line-height: 27px;
+  font-family: var(--font-open-sans);
+  color: var(--body);
+  display: inline-block;
+  width: 295px;
+}
+.frameParent,
+.grilledTomatoesAtHomeParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.grilledTomatoesAtHomeParent {
+  height: 125px;
+  gap: var(--gap-sm);
+}
+.frameParent {
+  position: absolute;
+  top: 319.5px;
+  left: 43.2px;
+  width: 295px;
+  height: 194.5px;
+  gap: 27.41px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 125px;
+  left: 0;
+  width: 381px;
+  height: 554px;
+}
+.frameGroup,
+.snacksForTravelParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.snacksForTravelParent {
+  gap: var(--gap-sm-7);
+}
+.frameGroup {
+  position: absolute;
+  top: 319.5px;
+  left: 43.2px;
+  gap: 27.41px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 381px;
+  height: 554px;
+}
+.mealPrepIdeas846x8461Icon {
+  position: absolute;
+  top: 27px;
+  left: 27px;
+  border-radius: var(--br-2xl);
+  width: 326px;
+  height: 258px;
+  object-fit: cover;
+}
+.groupContainer,
+.groupParent {
+  position: absolute;
+  top: 125px;
+  left: 422px;
+  width: 381px;
+  height: 554px;
+}
+.groupContainer {
+  left: 844px;
+}
+.latestArticlesParent {
+  position: absolute;
+  top: 1614px;
+  left: 108px;
+  width: 1225px;
+  height: 679px;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--primary);
+  font-family: var(--font-poppins);
+}
