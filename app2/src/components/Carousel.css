@@ -1,0 +1,117 @@
+.carousel {
+  width: 40%;
+  height: 1500px; /* Height for the square layout */
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.carousel-inner {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-card {
+  flex: 0 0 100%;
+  box-sizing: border-box;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Ensure content is spaced inside */
+  align-items: center;
+}
+
+.card-content {
+  background-color: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  position: relative;
+  width: 100%;
+  height: 100%; /* Ensure it takes up all available height */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-content img {
+  width: 100%;
+  height: 200px; /* Maintain the image aspect ratio */
+  object-fit: cover; /* Ensure the image is cropped to fit */
+  border-radius: 15px;
+}
+
+.card-content .p-5 {
+  padding: 15px;
+  text-align: center;
+}
+
+.card-content h3 {
+  margin-top: 10px;
+}
+
+.card-content .rating {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 15px;
+  font-size: 14px;
+}
+
+.carousel-nav-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white;
+  padding: 10px;
+  font-size: 24px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.carousel-nav-btn:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel-nav-prev {
+  left: 10px;
+}
+
+.carousel-nav-next {
+  right: 10px;
+}
+
+.carousel-dots {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 10px;
+}
+
+.carousel-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.carousel-dot.active {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+
+
+
+
+
+
